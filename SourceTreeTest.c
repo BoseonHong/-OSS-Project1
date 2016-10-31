@@ -4,6 +4,8 @@ int main(){
   int num = 0;
   printf("first oss code\n");
   printf("sceond code\n");
+  
+  printf("Hong Bo Sun BaBoNom\n");
 
   printf("select number(1~10)\n");
   scanf("%d\n",&num );
