@@ -1,7 +1,7 @@
 ##include <stdio.h>
 
 int main(){
-  int num;
+  int num = 0;
   printf("first oss code\n");
   printf("sceond code\n");
 
